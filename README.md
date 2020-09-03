@@ -43,5 +43,5 @@ Projeto [backend](https://github.com/Jhonatan-Pereira/node_omnistack_week_11).
 
 Jhonatan Frade <jhonatanfrade.pereira@gmail.com>
 
-[viewport1]: https://raw.githubusercontent.com/Jhonatan-Pereira/react_omnistack_week_11/master/assets/viewport1.jpeg "Viewport1"
-[viewport2]: https://raw.githubusercontent.com/Jhonatan-Pereira/react_omnistack_week_11/master/assets/viewport2.jpeg "Viewport2"
+[viewport1]: https://raw.githubusercontent.com/Jhonatan-Pereira/react_native_omnistack_week_11/master/assets/viewport1.jpeg "Viewport1"
+[viewport2]: https://raw.githubusercontent.com/Jhonatan-Pereira/react_native_omnistack_week_11/master/assets/viewport2.jpeg "Viewport2"
